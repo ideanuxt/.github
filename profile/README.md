@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to strdot
+
+![design editor](https://static.strdot.com/snapshot-light.png)
 
 <!--
 
